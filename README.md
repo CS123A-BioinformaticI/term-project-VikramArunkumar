@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection using Deep Learning
 
-A machine learning-based solution for automated detection and classification of brain tumors from MRI images using a Fully Connected Neural Network (FCNN).
+A machine learning-based solution for automated detection and classification of brain tumors from MRI images using a Convolutional Neural Network (CNN).
 
 ## 📋 Overview
 
@@ -72,5 +72,6 @@ brain-tumor-detection/
 - **Precision**: XX%
 - **Recall**: XX%
 - **F1-Score**: XX%
+
 
 
