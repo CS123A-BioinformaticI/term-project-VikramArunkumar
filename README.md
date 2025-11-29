@@ -37,15 +37,18 @@ The model uses a Sequential architecture with the following characteristics:
 ✅ Adamax optimizer for adaptive learning rates  
 ✅ Categorical cross-entropy for multi-class classification
 
-## 🛠️ Technologies Used
+## 🛠️ Dependencies 
 
 - **Deep Learning**: TensorFlow/Keras
-- **Data Processing**: NumPy, Pandas
+- **Data Processing**: NumPy, Pandas, Pillow
 - **Machine Learning**: Scikit-learn
-- **Visualization**: Matplotlib
-- **Environment**: Python 3.x
+- **Visualization**: Matplotlib, Seaborn
+- **Environment**: Python 3.x (3.8 or higher)
 
-## 📁 Project Structure
+## Instructions
+1. Clone the repository
+2. Install the required dependencies
+3. Organize the dataset into the following structure:
 ```
 brain-tumor-detection/
 │
@@ -65,13 +68,15 @@ brain-tumor-detection/
 │
 └── README.md             # Project documentation
 ```
+4. Update dataset path in BrainTumorDetection.ipynb to match local directory structure
 
-## 📊 Results
-- **Training Accuracy**: XX%
-- **Testing Accuracy**: XX%
-- **Precision**: XX%
-- **Recall**: XX%
-- **F1-Score**: XX%
+## 📊 Our Results
+- **Training Accuracy**: 99.98%
+- **Testing Accuracy**: 99.85%
+- **Precision**: 99.54%
+- **Recall**: 99.54%
+- **F1-Score**: 99.54%
+
 
 
 
