@@ -14,7 +14,7 @@ The model aims to assist in early diagnosis and support medical professionals in
 
 ## 🎯 Dataset
 
-- **Source**: [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- **Source**: [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data)
 - **Classes**: 4 (Glioma, Meningioma, Pituitary, No Tumor)
 - **Image Size**: 299 × 299 pixels
 - **Split**: Separate training and testing sets
@@ -76,6 +76,7 @@ brain-tumor-detection/
 - **Precision**: 99.54%
 - **Recall**: 99.54%
 - **F1-Score**: 99.54%
+
 
 
 
