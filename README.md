@@ -45,7 +45,7 @@ The model uses a Sequential architecture with the following characteristics:
 - **Visualization**: Matplotlib, Seaborn
 - **Environment**: Python 3.x (3.8 or higher)
 
-## Instructions
+## 📝 Instructions
 1. Clone the repository
 2. Install the required dependencies
 3. Organize the dataset into the following structure:
@@ -76,6 +76,7 @@ brain-tumor-detection/
 - **Precision**: 99.54%
 - **Recall**: 99.54%
 - **F1-Score**: 99.54%
+
 
 
 
