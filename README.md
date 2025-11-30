@@ -71,11 +71,12 @@ brain-tumor-detection/
 4. Update dataset path in BrainTumorDetection.ipynb to match local directory structure
 
 ## 📊 Our Results
-- **Training Accuracy**: 99.98%
-- **Testing Accuracy**: 99.85%
-- **Precision**: 99.54%
-- **Recall**: 99.54%
-- **F1-Score**: 99.54%
+- **Training Accuracy**: 99.90%
+- **Testing Accuracy**: 79.70%
+- **Precision**: 85.14%
+- **Recall**: 71.57.%
+- **F1-Score**: 77.77%
+
 
 
 
