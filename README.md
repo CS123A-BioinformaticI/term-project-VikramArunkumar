@@ -74,8 +74,9 @@ brain-tumor-detection/
 - **Training Accuracy**: 99.90%
 - **Testing Accuracy**: 79.70%
 - **Precision**: 85.14%
-- **Recall**: 71.57.%
+- **Recall**: 71.57%
 - **F1-Score**: 77.77%
+
 
 
 
